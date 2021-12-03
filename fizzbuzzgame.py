@@ -1,5 +1,8 @@
+# Global variables 
 count = 0
 score = 0
+
+# Define fizzbuzz
 def fizzbuzz():
     global count
     global score
@@ -42,6 +45,17 @@ def fizzbuzz():
         else:
             return score
  
+# Introduction
+print("Welcome to the fizzbuzz game!")
+print("To begin, type the first number, which is the number 1,")
+print("and keep counting until you get to 100!")
+print("If you want to know how to play the game, see the README in the repository!")
+
+# Run fizzbuzz game (repeat until 100th number)
 while count < 99:
     fizzbuzz()
+
+# Conclusion
 print("Score: " + str(fizzbuzz()) + "/100")
+
+# Note: There is no restart function. It will be added later.
