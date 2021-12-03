@@ -16,9 +16,9 @@ for you! You will not be awarded a point
 however.
 
 # To break it down
-Multiple of 3 (ex. 6, 9, 12) = fizz
-Multiple of 5 (ex. 5, 10, 20) = buzz
-Multiple of 3 AND 5 (15, 30, 45) = fizzbuzz
+* Multiple of 3 (ex. 6, 9, 12) = fizz
+* Multiple of 5 (ex. 5, 10, 20) = buzz
+* Multiple of 3 AND 5 (15, 30, 45) = fizzbuzz
 
 Here's fizzbuzz from 1 to 20:
 ```
