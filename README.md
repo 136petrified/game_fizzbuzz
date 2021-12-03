@@ -8,7 +8,7 @@ that are multiples of 3 and 5 are called
 fizz or buzz, fizzbuzz if both.
 
 * Simply put, replace that number with fizz,
-buzz, or fizzbuzz depending if its respective
+buzz, or fizzbuzz depending on its respective
 factor(s).
 
 * If you guess incorrectly, no penalty
